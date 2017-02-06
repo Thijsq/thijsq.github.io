@@ -78,16 +78,16 @@ analytics:
 # Site Author
 author:
   name             : "Thijs Quast"
-  avatar           : /home/tquast/Documents/Administratie/profile.jpg
-  bio              : "MSc Financial Economics (2016 - 2017) at Erasmus University of Rotterdam"
+  avatar           : 
+  bio              : "MSc Financial Economics (2016-2017) at Erasmus University of Rotterdam"
   location         : "Rotterdam"
-  email            :
+  email            : "thijsquast@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : 
   foursquare       :
   github           :
   google_plus      :
