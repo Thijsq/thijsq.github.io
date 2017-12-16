@@ -12,7 +12,7 @@ author_profile : true
 ### Data Science
 
 *Python*
-+ Intro to Python for Data Science [see](https://github.com/Thijsq/Datacamp/raw/master/Intro%20Python%20for%20Data%20Science.pdf)
++ Intro to Python for Data Science ([see])(https://github.com/Thijsq/Datacamp/raw/master/Intro%20Python%20for%20Data%20Science.pdf)
 
 *R*
 
