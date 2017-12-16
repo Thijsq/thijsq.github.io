@@ -5,7 +5,7 @@ permalink: about
 author_profile: true
 ---
 
-Thijs Quast from the Netherlands, I am 21 years old
+MSc Financial Economics student at Erasmus University Rotterdam. Research interests in statistical methods and machine learning. Previous experience as an intern at Structured Products of Kempen & Co and as a tutor.
 
 
 
