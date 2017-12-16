@@ -6,7 +6,8 @@ main:
     url: /cv
   - title : "Projects"
     url: /projects
-    
+  - title: "Certificates"
+    url: /certificates
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
