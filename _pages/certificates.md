@@ -7,10 +7,10 @@ author_profile : true
 
 ### Machine Learning
 
-**Python**
+*Python*
 
 ### Data Science
 
-**Python**
+*Python*
 
-**R**
+*R*
