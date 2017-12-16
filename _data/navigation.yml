@@ -2,8 +2,6 @@
 main:
   - title: "About me"
     url: /about
-  - title: "Curriculum Vitae"
-    url: /cv
   - title : "Projects"
     url: /projects
   - title: "Certificates"
