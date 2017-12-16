@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can [download] (https://github.com/Thijsq/Curriculum-Vitae/blob/master/CV%20T.J.Quast%20(8).pdf) my resume here
+You can [download] (Curriculum-Vitae/CV T.J.Quast (8).pdf) my resume here
