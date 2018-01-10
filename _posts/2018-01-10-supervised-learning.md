@@ -9,7 +9,7 @@ tags: [machine learning, python]
 > In my post I refer to the Supervised learning with scikit-learn Course by Datacamp.com. This course it taught in Python.
 
 ### Supervised learning with scikit-learn 
-I recently finished this exciting course by Datacamp.com on machine learning, which covers the main aspects of supervised machine learning. 
+I recently finished this exciting course by Datacamp.com, which covers the main aspects of supervised machine learning. 
 
 In order to succesfully complete this
 course prior knowledge on Python and statistics is required. Therefore I would recommend taking the introductory and intermediate Python courses first. 
