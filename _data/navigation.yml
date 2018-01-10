@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Blog"
+    url: /
   - title: "About me"
     url: /about
   - title: "Certificates"
