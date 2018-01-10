@@ -8,10 +8,12 @@ author_profile : true
 ### Machine Learning
 
 *Python*
-
++ Supervised Learning with scikit, 
 ### Data Science
 
 *Python*
++ Intermediate Python for Data Science Course,
+
 + Intro to Python for Data Science, [see](https://github.com/Thijsq/Datacamp/raw/master/Intro%20Python%20for%20Data%20Science.pdf)
 
 *R*
