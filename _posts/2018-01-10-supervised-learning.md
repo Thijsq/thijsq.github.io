@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Supervised learning in Python"
 permalink: supervised-learning
 date: 2018-01-10
