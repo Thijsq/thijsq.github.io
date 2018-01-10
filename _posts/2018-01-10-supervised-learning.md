@@ -20,4 +20,4 @@ you will most likely find yourself retyping lines instead of actually understand
 
 Make sure to post all your achieved certificates on LinkedIn.
 
-To give you an idea of what a certificate issued by Datacamp.com looks like, you can find the certificate of this course [here](https://github.com/Thijsq/Datacamp/blob/raw/Supervised%20learning%20with%20scikit.pdf)
+To give you an idea of what a certificate issued by Datacamp.com looks like, you can find the certificate of this course [here](https://github.com/Thijsq/Datacamp/raw/master/Supervised%20learning%20with%20scikit.pdf)
