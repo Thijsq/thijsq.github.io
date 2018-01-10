@@ -8,11 +8,11 @@ author_profile : true
 ### Machine Learning
 
 *Python*
-+ Supervised Learning with scikit, 
++ Supervised Learning with scikit, [see](https://github.com/Thijsq/Datacamp/raw/master/Supervised%20learning%20with%20scikit.pdf)
 ### Data Science
 
 *Python*
-+ Intermediate Python for Data Science Course,
++ Intermediate Python for Data Science Course,[see](https://github.com/Thijsq/Datacamp/raw/master/Intermediate%20Python.pdf)
 
 + Intro to Python for Data Science, [see](https://github.com/Thijsq/Datacamp/raw/master/Intro%20Python%20for%20Data%20Science.pdf)
 
