@@ -6,7 +6,7 @@ date: 2018-01-10
 tags: [machine learning, python]
 ---
 
-> In my post I refer to the Supervised learning with scikit-learn Course by Datacamp.com. This course it taught in Python.
+> In my post I refer to the _Supervised learning with scikit-learn Course_ by Datacamp.com. This course it taught in Python.
 
 ### Supervised learning with scikit-learn 
 I recently finished this exciting course by Datacamp.com, which covers the main aspects of supervised machine learning. 
