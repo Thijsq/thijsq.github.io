@@ -2,7 +2,6 @@
 layout: post
 title: "Supervised learning in Python"
 date: 2018-01-10
-permalink: supervised-learning-in-Python
 tags: [machine learning, python]
 ---
 
