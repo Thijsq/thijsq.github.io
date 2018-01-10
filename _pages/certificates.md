@@ -9,6 +9,7 @@ author_profile : true
 
 *Python*
 + Supervised Learning with scikit, [see](https://github.com/Thijsq/Datacamp/raw/master/Supervised%20learning%20with%20scikit.pdf)
+
 ### Data Science
 
 *Python*
