@@ -8,7 +8,7 @@ tags: [machine learning, python]
 
 > In my post I refer to the Supervised learning with scikit-learn Course by Datacamp.com. This course it taught in Python.
 
-##Supervised learning with scikit-learn 
+### Supervised learning with scikit-learn 
 I recently finished this exciting course by Datacamp.com on machine learning. The course covers the main aspects of supervised machine learning. In order to succesfully complete this
 course prior knowledge on Python and statistics is required. Therefore I would recommend taking the introductory and intermediate Python courses first. 
 If you are a student in a quantitative field you will most likely have covered the requried statistics at university. Otherwise the Statistical Thinking in Python will provide you will the necessary statistic foundation. the When working your way through the course don't refer to the slides too often. When stuck during an exercise try to Google your way out of it. This will
