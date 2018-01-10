@@ -14,6 +14,7 @@ Running, Football, Hockey, Golf, Squash, Skiing, Snowboarding, Sailing, Diving
 
 ### Favorite books
 "The Rise of the Robots" by Martin Ford
+
 "Adults in the Room" by Yanis Varoufakis
 
 ### Favorite tv-shows
