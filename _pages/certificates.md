@@ -4,6 +4,7 @@ title: Certificates
 permalink: /certificates/
 author_profile : true
 ---
+For an overview of my programming competencies, please see my [portfolio](https://github.com/Thijsq/Datacamp/raw/master/portfolio%20datacamp.pdf)
 
 ### Machine Learning
 
