@@ -17,6 +17,12 @@ Running, Football, Hockey, Golf, Squash, Skiing, Snowboarding, Sailing, Diving
 
 "Adults in the Room" by Yanis Varoufakis
 
+### Favorite movies
+Inception
+Interstellar
+
 ### Favorite tv-shows
-Suits, Black Mirror, Narcos
+Suits 
+Black Mirror 
+Narcos
 
