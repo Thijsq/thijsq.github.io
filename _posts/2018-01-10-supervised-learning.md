@@ -11,6 +11,8 @@ tags: [machine learning, python]
 ### Supervised learning with scikit-learn 
 I recently finished this exciting course by Datacamp.com, which covers the main aspects of supervised machine learning. 
 
+The course starts with a standard classification problem. Afterwards regression problems are extensively disucssed, with Lassoregressions and Ridgeregressions being specific examples. Special attention is focused on fine-tuning the models, by means of e.g. hypoparameter tuning. The final chapter of the course is dedicated to preprocessing techniques in order to enhance model performance. Finally the course briefly introduces the use of pipelines for machine learning. This is where the course becomes slightly technical
+
 In order to succesfully complete this
 course prior knowledge on Python and statistics is required. Therefore I would recommend taking the introductory and intermediate Python courses first. 
 If you are a student in a quantitative field you will most likely have covered the requried statistics at university. Otherwise the _Statistical Thinking in Python_ course will provide you will the necessary statistic foundation.
