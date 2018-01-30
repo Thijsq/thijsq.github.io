@@ -9,6 +9,8 @@ For an overview of my programming competencies, please see my [portfolio](https:
 ### Machine Learning
 
 *Python*
++ Machine Learning with the Experts: School Budgets, [see](https://github.com/Thijsq/Datacamp/raw/master/Machine%20Learning%20with%20the%20experts:%20School%20budgets.pdf)
+
 + Supervised Learning with scikit, [see](https://github.com/Thijsq/Datacamp/raw/master/Supervised%20learning%20with%20scikit.pdf)
 
 + Unsupervised Learning in Python, [see](https://github.com/Thijsq/Datacamp/raw/master/Unsupervised%20Learning%20in%20Python.pdf)
