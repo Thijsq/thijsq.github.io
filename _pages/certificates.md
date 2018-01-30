@@ -11,9 +11,16 @@ For an overview of my programming competencies, please see my [portfolio](https:
 *Python*
 + Supervised Learning with scikit, [see](https://github.com/Thijsq/Datacamp/raw/master/Supervised%20learning%20with%20scikit.pdf)
 
++ Unsupervised Learning in Python, [see](https://github.com/Thijsq/Datacamp/raw/master/Unsupervised%20Learning%20in%20Python.pdf)
+
 ### Data Science
 
 *Python*
+
++ Statistical Thinking in Python, [see](https://github.com/Thijsq/Datacamp/raw/master/Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
+
++ Python Data Science Toolbox, [see](https://github.com/Thijsq/Datacamp/raw/master/Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
+
 + Intermediate Python for Data Science Course,[see](https://github.com/Thijsq/Datacamp/raw/master/Intermediate%20Python.pdf)
 
 + Intro to Python for Data Science, [see](https://github.com/Thijsq/Datacamp/raw/master/Intro%20Python%20for%20Data%20Science.pdf)
