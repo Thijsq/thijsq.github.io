@@ -1,0 +1,38 @@
+---
+layout: single
+title: "Machine Learning skill track"
+permalink: ml-track
+date: 2018-01-31
+tags: [machine learning, deep learning, python]
+---
+
+> This post is a brief description of the Machine Learning with Python skill track which consists of the following four courses:
+> "Supervised Learning with scikit-learn", "Unsupervised Learning in Python", "Machine Learning with Experts: School Budgets", 
+>"Deep Learning in Python"
+
+> Prerequisite courses "Intro to Python for Data Science", "Intermediate Python for Data Science", "Statistical Thinking in Python (Part 1)"
+
+Following my previous post on the "Supervised Learning with scikit-learn" course I will here share my thoughts on the entire machine learning skill track.
+
+The "Unsupervised Learning in Python" course is build up in the same way as the "Supervised Learning with scikit-learn" course, starting with data clustering the general idea of unsupervised learning
+is well introduced. Afterwards, data visualization is extensively discussed with two techniques in particular, namely, hierarchical clustering and t-SNE. 
+Both topics are well explained in the videos and therefore the exercises are not too difficult. Building on this foundation, dimension reduction is explained by means of the most fundamental technique: 
+"Principale Component Analysis" ("PCA"), this can be quite tricky and therefore I would recommend taking your time for these exercises, don't hit the hint button too soon! There is 
+a lot to be found on Google! Afterwards another dimension reduction technique is discussed, namely the "Non-negative matrix factorization" ("NMF")
+
+"Machine Learning with the Experts: School Budgets" opposed to the two previous courses this course is a case-study in which previously learned
+techniques are applied. The course starts with a simple model and is then specified. The last course of the track "Deep Learning in Python" in my experience was
+definitely the most exciting one! In this course you will build your own neural network with hidden layers, the explanation videos are very informative. Special attention is 
+focused on understanding the theory behind this model and therefore quite some exercises test your theoretical knowledge on the subject. Towards the end of the model Keras is introduced and 
+used to build a model.
+
+In general I would say this track touches many aspects in the field of machine learning and becomes quite detailed at certain points. However
+one should not expect to be an expert after completing these four courses. Also, as so many topics are discussed in the courses, in many exercises
+a lot of the code is already pre-loaded, thereby leaving only a few blanks to be filled by the student. This of course is conventient and time saving, however
+I think people will learn by repetition, therefore I would have enjoyed some more case studies in the courses in which someone is required to build a model from 
+scratch without any code pre-loaded, since this is how it will be in practice as well.
+
+All in all I really enjoyed all four courses and I will definately dive deeper into the subjects!
+
+Please find my certificate for the Machine Learning with Python track [here](https://github.com/Thijsq/Datacamp/raw/master/Machine%20Learning%20with%20Python%20Track.pdf)
+
