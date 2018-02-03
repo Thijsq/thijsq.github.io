@@ -8,6 +8,8 @@ For an overview of my programming competencies, please see my [portfolio](https:
 
 ### Machine Learning
 The four courses below together comprise the "Machine Learning with Python track", [see](https://github.com/Thijsq/Datacamp/raw/master/Machine%20Learning%20with%20Python%20Track.pdf) 
+
+
 *Python*
 + Deep Learning in Python, [see](https://github.com/Thijsq/Datacamp/raw/master/deep%20learning%20in%20Python.pdf)
 
