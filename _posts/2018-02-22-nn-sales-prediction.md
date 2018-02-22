@@ -15,7 +15,7 @@ Based on historical data, this challenge requires the participants to predict sa
 ### Feature engineering
 Before computing and training our model, we have to look at the distribution of our data. In a python dataframe this can be simply be done with the following command.    
     
-    #### df.describe()  wherer "df" stands for the name of the particular dataframe
+    ####df.describe()  where "df" stands for the name of the particular dataframe
 
 In this data it could easily be seen that not all features are distributed around the same mean, and standard deviations vary significantly. When using the raw data in a regression neural network, results will be disappoint. This problem can however very easily be solved. Simply apply feature scaling.
 
