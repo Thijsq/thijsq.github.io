@@ -54,6 +54,6 @@ Sequential_feature_scaled = model.fit(X,y,batch_size=2048,epochs=10)
 This code used 10 epochs, this can easily be scaled upwards, depending on the computing power of your machine. Or even better, execute your code in a cloud environment. Remember to store the model.fit in a variable, this makes it easy to plot the results lateron.
 
 ### Results
-<img src="tquast$ /Users/tquast/Library/Mobile\ Documents/com\~apple\~Grab/Documents/Results\ week2.png" alt="">
+![My helpful screenshot]({{ "/assets/week2.png" | absolute_url }})
 
 
