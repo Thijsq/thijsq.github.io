@@ -13,7 +13,7 @@ Based on historical data, this challenge requires the participants to predict sa
 
 
 ### Feature engineering
-Before computing and training our model, we have to look at the distribution of our data. In a python dataframe this can be simply be done with the following command. The pandas dataframe used for this model is named "df".
+Before computing and training our model, we have to look at the distribution of our data. In a pandas dataframe this can be simply be done with the following command. The pandas dataframe used for this model is named "df".
 
 ```   
 df.describe()
@@ -54,7 +54,7 @@ Sequential_feature_scaled = model.fit(X,y,batch_size=2048,epochs=10)
 This code used 10 epochs, this can easily be scaled upwards, depending on the computing power of your machine. Or even better, execute your code in a cloud environment. Remember to store the model.fit in a variable, this makes it easy to plot the results lateron.
 
 ### Results
-Results after running the model for 10 epochs can be found[here]({{ "/assets/week2.png" | absolute_url }}). This model is based on the mean absolute error, as a loss function. After running only 10 epochs and plotting the loss, we can see the loss function converging to it's final value. Please find the plot of the loss function [here]({{ "/assets/loss.png" | absolute_url }}). After setting these hyperparameters, we can as a final step use the model to predict. 
+Results after running the model for 10 epochs can be found [here]({{ "/assets/week2.png" | absolute_url }}). This model is based on the mean absolute error, as a loss function. After running only 10 epochs and plotting the loss, we can see the loss function converging to it's final value. Please find the plot of the loss function [here]({{ "/assets/loss.png" | absolute_url }}). After setting these hyperparameters, we can as a final step use the model to predict. 
 
 ```
 y_pred = model.predict(X_test, batch_size=2048)
