@@ -14,8 +14,11 @@ The bootcamp was an intense 9-week program coering machine learning with an emph
 The bootcamp aimed at applying state-of-the-art machine learning techniques to finance related topics. The bootcamp was organized in such a way that together with my groupmates
 every week we had to solve a challenge. From the beginning we participated in Kaggle competitions against some of the most advanced machine learning experts in the field. 
 
-### Content
+
+Although the bootcamp was only 9 weeks I am still astonished by the great variety and complexity of content we managed to grasp. In the scope of the bootcamp we built a logistic regressor in Excel, used self built neural networks written in Python to forecast sales in a Wallmart campaign, built an image classifier to classify images of plant seedlings, built a recurrent neural network to identify offensive wikipedia comments (This was by far my favourite topic!), built the classic Q-model that balanced a virtual pole, built an automatic invoice classifier for a financial company located in Rotterdam, and as a final project together with my groupmates we developed a neural network which is able to trade cryptocurrencies. 
 
 
 
-### Practical implementations
+Besides the theoretical aspects of the bootcamp we had a variety of guest speakers from Google, ING, Robeco, N26, and Ortec, to hear how machine learning is implemented in the business environment.
+
+All in all I can say I learned very much from our instructors, and now on it is up to myself to further dive into this rapidly evolving field!
