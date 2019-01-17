@@ -4,7 +4,7 @@ title: Certificates
 permalink: /certificates/
 author_profile : true
 ---
-For an overview of my programming competencies, please see my [GitHub profile] (https://github.com/Thijsq)
+For an overview of my programming competencies, please see my [GitHub profile](https://github.com/Thijsq)
 
 ### Machine Learning
 The four courses below together comprise the "Machine Learning with Python track", [see](https://github.com/Thijsq/Datacamp/raw/master/Machine%20Learning%20with%20Python%20Track.pdf) 
