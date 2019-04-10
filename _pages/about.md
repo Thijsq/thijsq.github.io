@@ -17,6 +17,8 @@ Running, Football, Hockey, Golf, Squash, Skiing, Snowboarding, Sailing, Diving
 
 "Adults in the Room" by Yanis Varoufakis
 
+"Factfulness" by Hans Rosling
+
 ### Favorite movies
 Inception, Interstellar
 
