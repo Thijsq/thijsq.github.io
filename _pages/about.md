@@ -23,5 +23,5 @@ Running, Football, Hockey, Golf, Squash, Skiing, Snowboarding, Sailing, Diving
 Inception, Interstellar
 
 ### Favorite tv-shows
-Suits, Black Mirror, Narcos
+Suits, Black Mirror
 
