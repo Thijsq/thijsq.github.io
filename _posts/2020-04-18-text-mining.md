@@ -8,6 +8,8 @@ tags: [machine learning, python, text mining]
 
 This blog assume's the reader to have prior knowledge in text mining and classification problems.
 
+As a text mining project in my MSc in Statistics and Machine Learning at LiU (Linköping University) I assessed performance of Convolutional Neural Networks in a text classification setting. As a benchmark, several conventional Machine Learning Models were used. Below is the abstract of the paper. The full paper can be downloaded at the end of this post.
+
 The importance of accurate text classification algorithms is straightforward, 
 however a consensus on which Machine Learning model is superior in text classification settings remains absent. 
 This paper aims to determine whether state-of-the art Convolutional Neural Networks (CNN) outperform conventional 
