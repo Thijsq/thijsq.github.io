@@ -15,7 +15,7 @@ Machine Learning models. A wide range of models is proposed: Naive Bayes, Logist
 Random Forest, XGBoost and Convolutional Neural Networks. In order to identify a superior classification model, 
 a comprehensive model evaluation is performed. Effects of different vectorizers, CountVectorizer and tf-idf vectorizer, 
 together with balancing the training dataset is analyzed. A simple CNN architecture consisting of 9 layers is assessed, 
-as well as a more complex design consisting of 24 layers. Results show that a more complex CNN does not improve results. 
+as well as a more complex design consisting of 24 layers. Results show that a more complex CNN does not improve performance. 
 Considering all models, Logistic Regression shows an outperformance when using a CountVectorizer on an unbalanced training 
 dataset. Balancing the training data improves recall rates throughout multiple models, however, implementing the tf-idf 
 vectorizer fails to raise performance rates. All models are trained and evaluated on a Coursera review dataset consisting of 
