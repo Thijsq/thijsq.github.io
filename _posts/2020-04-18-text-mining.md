@@ -6,6 +6,8 @@ date: 2018-04-18
 tags: [machine learning, python, text mining]
 ---
 
+This blog assume's the reader to have prior knowledge in text mining and classification problems.
+
 The importance of accurate text classification algorithms is straightforward, 
 however a consensus on which Machine Learning model is superior in text classification settings remains absent. 
 This paper aims to determine whether state-of-the art Convolutional Neural Networks (CNN) outperform conventional 
